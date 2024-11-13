@@ -1,3 +1,10 @@
+This project uses:
+1. Next.js: catch all route
+2. Hono
+3. Clerk
+4. Bun
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
