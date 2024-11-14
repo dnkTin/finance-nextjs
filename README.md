@@ -3,6 +3,16 @@ This project uses:
 2. Hono
 3. Clerk
 4. Bun
+5. Tailwinds
+6. shadcn
+7. react-use
+8. lucide-react
+server component vs server side rendering (use client)
+dotenv 
+
+Databse and schema
+neon tech & drizzle: https://console.neon.tech/app/projects
+eslints
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
